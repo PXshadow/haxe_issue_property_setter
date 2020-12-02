@@ -1,6 +1,5 @@
 class Main {
 	static function main() {
-		var x = 5;
 		var data = new Data();
 		trace("x: " + Macro.test(data));
 		Macro.test(data) = 4;
