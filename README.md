@@ -1,0 +1,1 @@
+# Haxe issue with property setter macro
